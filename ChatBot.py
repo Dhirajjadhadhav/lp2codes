@@ -84,8 +84,6 @@ pairs=[
         r"quit",
         ["Thank you for using our intelligence services"]
     ],
-    
-
 ]
 
 def chat():
